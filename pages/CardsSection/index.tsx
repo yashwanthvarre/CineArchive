@@ -19,7 +19,9 @@ const CardsSection = () => {
         maxW="1200px"
       >
         {moviesData.map((movie) => (
-          <MovieCard key={movie.name} movie={movie} />
+          <Flex key={movie.name}>
+            <MovieCard movie={movie} />
+          </Flex>
         ))}
       </SimpleGrid>
     </Flex>
