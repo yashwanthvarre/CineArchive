@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Lagaan",
+    "title": "Lagaan: Once Upon a Time in India",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b6/Lagaan.jpg",
+    "rating": 8.1,
+    "overview": "Villagers challenge British colonials to a critical cricket match that decides their future."
+  },
+  {
+    "name": "3 Idiots",
+    "title": "3 Idiots",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg",
+    "rating": 8.4,
+    "overview": "Three college friends discover the true meaning of life in the midst of a rigid education system."
+  },
+  {
+    "name": "Swades",
+    "title": "Swades",
+    "poster": "/assets/movies/Swades_poster.jpg",
+    "rating": 8.2,
+    "overview": "A NASA scientist returns home to India and embarks on a journey of self-discovery."
+  },
+  {
+    "name": "Dangal",
+    "title": "Dangal",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/99/Dangal_Poster.jpg",
+    "rating": 8.3,
+    "overview": "An ex-wrestler coaches his daughters, pushing them to excel in a male-dominated sport."
+  },
+  {
+    "name": "Zindagi Na Milegi Dobara",
+    "title": "Zindagi Na Milegi Dobara",
+    "poster": "/assets/movies/zindagi.jpeg",
+    "rating": 8.1,
+    "overview": "Three friends take a life-changing road trip across Spain, confronting their fears and pasts."
+  },
+  {
+    "name": "Dil Chahta Hai",
+    "title": "Dil Chahta Hai",
+    "poster": "/assets/movies/di_chahta_hei.jpeg",
+    "rating": 8.1,
+    "overview": "Three inseparable childhood friends navigate love and life post-college in urban India."
+  },
+  {
+    "name": "Chak De! India",
+    "title": "Chak De! India",
+    "poster": "/assets/movies/chak_de_india.jpeg",
+    "rating": 8.2,
+    "overview": "A disgraced ex-hockey player coaches the Indian women’s hockey team to prove their worth."
+  },
+  {
+    "name": "PK",
+    "title": "PK",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/c/c3/PK_poster.jpg",
+    "rating": 8.1,
+    "overview": "An alien on Earth challenges religious dogma, searching for answers about humanity and faith."
+  },
+  {
+    "name": "Gully Boy",
+    "title": "Gully Boy",
+    "poster": "/assets/movies/Gully_boy.jpeg",
+    "rating": 8.0,
+    "overview": "A talented Mumbai street rapper fights to rise above his socio-economic status and chase his dreams."
+  },
+  {
+    "name": "Andaz Apna Apna",
+    "title": "Andaz Apna Apna",
+    "poster": "/assets/movies/Andaz_apna_apna.jpeg",
+    "rating": 7.9,
+    "overview": "Two dreamers cross paths vying for wealth and love, leading to comedic misadventures."
+  },
+  {
+    "name": "Queen",
+    "title": "Queen",
+    "poster": "/assets/movies/queen.jpeg",
+    "rating": 8.2,
+    "overview": "A sheltered Delhi girl goes on her honeymoon alone after her fiancé calls off the wedding."
+  },
+  {
+    "name": "Tumbbad",
+    "title": "Tumbbad",
+    "poster": "/assets/movies/Tumbad.jpeg",
+    "rating": 8.3,
+    "overview": "A mythological treasure hunt unravels horrifying secrets in a remote Maharashtrian village."
+  },
+  {
+    "name": "Sholay",
+    "title": "Sholay",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/5/52/Sholay-poster.jpg",
+    "rating": 8.2,
+    "overview": "Two criminals are hired to capture a ruthless bandit, forging an iconic tale of friendship."
+  },
+  {
+    "name": "Baahubali: The Beginning",
+    "title": "Baahubali: The Beginning",
+    "poster": "/assets/movies/bahubali_1.jpeg",
+    "rating": 8.0,
+    "overview": "A daring young man uncovers his royal lineage as he fights to save a kingdom from tyranny."
+  },
+  {
+    "name": "Baahubali 2",
+    "title": "Baahubali 2: The Conclusion",
+    "poster": "/assets/movies/bahubali_2.jpeg",
+    "rating": 8.2,
+    "overview": "The saga concludes as the rightful heir battles deceit and betrayal to reclaim the throne."
+  },
+  {
+    "name": "Magadheera",
+    "title": "Magadheera",
+    "poster": "/assets/movies/magahdeera.jpeg",
+    "rating": 7.7,
+    "overview": "A warrior reincarnates centuries later, determined to fulfill his oath to protect his beloved."
+  },
+  {
+    "name": "Arjun Reddy",
+    "title": "Arjun Reddy",
+    "poster": "/assets/movies/arjun_reddy.jpeg",
+    "rating": 8.1,
+    "overview": "A brilliant but hotheaded medical student self-destructs after a bitter breakup."
+  },
+  {
+    "name": "Mahanati",
+    "title": "Mahanati",
+    "poster": "/assets/movies/mahanati.jpeg",
+    "rating": 8.5,
+    "overview": "The life story of legendary actress Savitri, capturing her meteoric rise and tragic downfall."
+  },
+  {
+    "name": "Ala Vaikunthapurramuloo",
+    "title": "Ala Vaikunthapurramuloo",
+    "poster": "/assets/movies/ala_vaikuntapuramlo.jpeg",
+    "rating": 7.2,
+    "overview": "A charming man discovers his real lineage, transforming family dynamics and his own fortunes."
+  },
+  {
+    "name": "Rangasthalam",
+    "title": "Rangasthalam",
+    "poster": "/assets/movies/ranghastalam.jpeg",
+    "rating": 8.4,
+    "overview": "A partially hearing-impaired villager challenges a tyrannical local leader, reshaping rural politics."
+  },
+  {
+    "name": "Eega",
+    "title": "Eega",
+    "poster": "/assets/movies/Eega.jpeg",
+    "rating": 7.7,
+    "overview": "A murdered man is reincarnated as a housefly to avenge his death and protect his beloved."
+  },
+  {
+    "name": "Pokiri",
+    "title": "Pokiri",
+    "poster": "/assets/movies/pokiri.jpeg",
+    "rating": 7.9,
+    "overview": "An undercover cop infiltrates a dangerous gang, unraveling a larger conspiracy in the city."
+  },
+  {
+    "name": "A Aa",
+    "title": "A Aa",
+    "poster": "/assets/movies/AAa.jpeg",
+    "rating": 7.2,
+    "overview": "A young woman’s trip to her aunt’s village sparks romance and self-discovery."
+  },
+  {
+    "name": "Businessman",
+    "title": "Businessman",
+    "poster": "/assets/movies/businessman.jpeg",
+    "rating": 7.1,
+    "overview": "A determined man arrives in Mumbai to take control of the city’s underworld, driven by ambition."
+  },
+  {
+    "name": "Gamyam",
+    "title": "Gamyam",
+    "poster": "/assets/movies/Gmyam.jpeg",
+    "rating": 7.8,
+    "overview": "A rich youngster, searching for his lost love, travels with a petty thief and learns life's bigger lessons."
+  }
+]
